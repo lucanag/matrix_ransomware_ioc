@@ -85,7 +85,6 @@ Extensions:
 .[Bitmine8@tutanota.com]
 .FOX
 .KOK8
-.no moved file
 .KOK08
 .NEWRAR
 .FASTBOB
@@ -100,7 +99,7 @@ Extensions:
 .TRU8
 
 Mutex names:
-OurMainMutex999
+OurMainMutex999, OurMainMutex999net
 MutexAnon, MutexAnonDONW
 MutexCore, MutexCoreDONW
 MutexFox, MutexFoxDONW
