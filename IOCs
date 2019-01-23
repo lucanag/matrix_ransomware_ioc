@@ -67,6 +67,16 @@ d3c257a86c875c1435b6e7180ab55e74b005cf0528cd0ba09ce0f5f826ffb8e7
 38d93c4bf757ba8c75acd0e2cef72cc396b45980918388d491d8a3ec52d7a0ce 
 1bc21ac96495a44fdaa6b09f20f44390b1b721b1316d175893f6ad7ef6b4e201
 b8cb92b1377888883d30c15fa2a206d2bd70b7ee8d64a878df6581985658c408
+7a00ba75b9cc0542947b0bd65f46aa2b6c5bee25eb28023e7db2e09bfe8cd5e7
+39fe5e4f8f62d9891c736e584a108b9a62294f61386899ec32147fc054399cca
+bc39998bad128866015b7f0a2e160afba3629b3ef83fe84e664e9e117beeef75
+0daf6b838ddb12f1c20f15091d61cbbf5a73112ba1a797a0684fd7d19caf3b0b
+0c6137e6ac1bd87c806a05333a8e09b8df52d5a9fbe2b4a606fa9da80c45cc17
+aad588dd12577aba808566cab9ce0a8a005fd6d78216c535e618f6a64b59b03f
+b59dbc74b5a2895b67649da34be1825de2d59ba675ff8c7a4f60b73684bc2027
+0277191b0848d59e76db3ba3a87000baca0056356d85945ad19b14b37bf2c437
+dcf1014e4f80bf8ab81a1f27c6d379c300429a0e776452688bdade53fb00e44e
+efe5c20a3b71e738a8956ecda5af8375ef1e53dbee25ff97cb02a4c82e6d1f63
 
 Extensions:
 .[barboza40@yahoo.com]
@@ -97,6 +107,14 @@ Extensions:
 .ATOM
 .NOBAD
 .TRU8
+.FASTA
+.JNSS
+.FBK
+.ITLOCK
+.SPCT
+.PRCP
+.CHRB
+
 
 Mutex names:
 OurMainMutex999, OurMainMutex999net
@@ -116,6 +134,15 @@ MutexGMPF, MutexGMPFDONW
 MutexATOM, MutexATOMDONW
 MutexNOBAD, MutexNOBADDONW
 MutexTRU8, MutexTRU8DONW
+MutexCHE808, MutexCHE808DONW
+MutexFASTA, MutexFASTADONW
+MutexJNSS, MutexJNSSDONW
+MutexFASTBK, MutexFASTBKDONW
+MutexFBK, MutexFBKDONW
+MutexITLOCK, MutexITLOCKDONW
+MutexSPCT, MutexSPCTDONW
+MutexPRCP, MutexPRCPDONW
+MutexCHRB, MutexCHRBDONW
 
 C&C servers:
 blushing-gasket[.]000webhostapp[.]com
@@ -132,6 +159,13 @@ mai-hoand[.]000webhostapp[.]com
 pre[.]mygoodsday[.]org
 nobad[.]mygoodsday[.]org
 tru[.]mygoodsday[.]org
+che[.]mygoodsday[.]org
+jnss[.]mygoodsday[.]org
+testercmd[.]in
+updateplayernow[.]win
+tstat[.]mygoodsday[.]org
+prcp[.]mygoodsday[.]org
+
 
 Readme files:
 !ReadMe_How_To_Decrypt_Files!.rtfdme
@@ -157,3 +191,13 @@ Readme files:
 #NOBAD_README#.rtf
 !README_KOK08!.rtf
 !README_TRU8!.rtf
+#README_FASTA#.rtf
+!README_JNSS!.rtf
+#_#README_FAST#_#.rtf
+!README_FBK!.rtf
+!README_ITLOCK!.rtf
+read_me_t0_rest0re_files.rtf
+!T0_Rest0re_Y0ur_FilEs_ReadMe!.rtf
+!README_SPCT!.rtf
+#README_PRCP#.rtf
+!README_CHRB!.rtf
